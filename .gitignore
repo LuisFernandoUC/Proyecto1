@@ -1,0 +1,12 @@
+# Archivos compilados
+app
+*.o
+*.out
+
+# Archivos temporales
+*~
+*.swp
+
+# Carpetas de sistema
+.DS_Store
+Thumbs.db
